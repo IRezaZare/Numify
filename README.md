@@ -35,7 +35,7 @@ python main.py
 ```
 
 ### 💻 دانلود نسخه اجرایی (Windows)
-- [📥 Numify.exe](https://github.com/IRezaZare/Numify/releases/latest/download/Numify.exe)  
+- [📥 Numify.exe](https://github.com/IRezaZare/Numify/releases/download/v1.0.0/numify.exe)  
 (بدون نیاز به نصب Python یا کتابخانه‌ها)
 
 ### 📸 پیش‌نمایش
@@ -82,7 +82,7 @@ python main.py
 ```
 
 ### 💻 Download Executable (Windows)
-- [📥 Numify.exe](https://github.com/IRezaZare/Numify/releases/latest/download/Numify.exe)  
+- [📥 Numify.exe](https://github.com/IRezaZare/Numify/releases/download/v1.0.0/numify.exe)  
 (No need to install Python or libraries)
 
 ### 📸 Preview
